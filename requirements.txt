@@ -1,0 +1,17 @@
+numpy 
+pandas 
+mlflow==2.2.2
+notebook
+scikit-learn
+python-box ==6.0.2
+matplotlib
+plotly 
+nbformat==5.9.2
+tqdm
+ensure==1.0.2
+joblib
+types-PyYAML
+Flask
+Flask-Cors
+
+-e .

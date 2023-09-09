@@ -1,0 +1,8 @@
+#!D:\Projects and Work\Projects\NLP\NLP PROJECTS\Text_Summarization\End_to_End_Text_Summarizer\virt\Scripts\python.exe
+# -*- coding: UTF-8 -*-
+from __future__ import print_function, division, absolute_import
+
+from numba.misc.numba_entry import main
+
+if __name__ == "__main__":
+    main()
