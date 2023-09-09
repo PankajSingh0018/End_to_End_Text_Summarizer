@@ -10,7 +10,7 @@ __version__ ="0.0.1"
 
 REPO_NAME= "End_to_End_Text_Summarizer"
 AUTHOR_USER_NAME ="PankajSingh0018"
-SRC_REPO= "Text-Summarizer"
+SRC_REPO= "TextSummarizer"
 AUTHOR_EMAIL= "singh.pankaj0018@gmail.com"
 
 
