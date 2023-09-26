@@ -58,3 +58,5 @@ class ModelTrainer:
 
         ## Saving tokenizer 
         tokenizer.save_pretrained(os.path.join(self.config.root_dir,"tokenizer"))
+
+

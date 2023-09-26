@@ -1,7 +1,7 @@
 from TextSummarizer.pipeline.Stage_01_data_ingestion import DataIngestionTrainingPipeline
 from TextSummarizer.pipeline.Stage_02_data_validation import DataValidationTrainingPipeline
 from TextSummarizer.pipeline.Stage_03_data_transformation import DataTransformationTrainingPipeline
-from TextSummarizer.pipeline.Stage_04_model_trainer import ModelTrainingPipeline
+from TextSummarizer.pipeline.Stage_04_model_trainer import ModelTrainerTrainingPipeline
 from TextSummarizer import logger
 
 
@@ -50,7 +50,7 @@ STAGE_NAME = "Model Training Stage"
 
 try:
     logger.info(f">>>>>>>>>> stage {STAGE_NAME} started <<<<<<<<<<")
-    model_trainer = ModelTrainingPipeline()
+    model_trainer = ModelTrainerTrainingPipeline()
     model_trainer.main()
     logger.info(f">>>>>>>>>> stage {STAGE_NAME} completed <<<<<<<<<< \n\nx========================================================================x")
 

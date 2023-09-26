@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Projects%20and%20Work/Projects/NLP/NLP%20PROJECTS/Text_Summarization/End_to_End_Text_Summarizer/mlruns/0/c0a9673b46554cfda65f571ba25305cc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0a9673b46554cfda65f571ba25305cc
+run_name: artifacts/model_trainer
+run_uuid: c0a9673b46554cfda65f571ba25305cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694942086539
+status: 1
+tags: []
+user_id: singh
